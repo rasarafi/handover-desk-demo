@@ -1,7 +1,7 @@
 # Tidewell Physio (Handover Desk demo target)
 
 A fictional physiotherapy clinic's site, used as the live target for
-[Handover Desk](https://github.com/) demos. It is static HTML/CSS/JS with no build step.
+[Handover Desk](https://github.com/rasarafi/handover-desk) demos. It is static HTML/CSS/JS with no build step.
 
 **It ships with problems on purpose.** Handover Desk's `auditor` agent should find them
 before the "client" sees the site, and the `fixer` agent should fix them in pull requests.
