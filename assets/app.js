@@ -1,5 +1,5 @@
 // Tidewell Physio front-end
-const API_BASE = "http://localhost:3000/api";
+const API_BASE = "/api";
 
 function loadBookings() {
   const body = document.getElementById("bookings");
